@@ -13,7 +13,7 @@ const {name,constituency,image,party} = mp;
      <article>
        <h2 className='heading'>{constituency} Constituency</h2>
       <figure>
-        <img src={image} alt={name} className='image'/>
+        <img src={image} alt={name} className='images'/>
       </figure>
       <div className='format'>
       <h3>{name}</h3>

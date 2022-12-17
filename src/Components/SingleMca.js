@@ -13,7 +13,7 @@ const SingleMca = () => {
        <h2 className='heading'>{ward} Ward</h2>
        <p>({constituency} Constituency)</p>
       <figure>
-        <img src={image} alt={name} className='image'/>
+        <img src={image} alt={name} className='images'/>
       </figure>
       <div className='format'>
       <h3>{name}</h3>
