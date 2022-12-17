@@ -9,11 +9,11 @@ const WomenRep = () => {
       <figure>
        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqUST_HBJ8tyIDmDFkiJD7uo3lC59vALQGqw&usqp=CAU' alt='Kiambu Women Rep 2022' className='images'/>
       </figure>
-      <article className='info'>
-      <h2>Anne Wanjiku Muratha</h2>
-      <h4>United Democratic Alliance (UDA)</h4>
+      <div className='format'>
+      <h3>Anne Wanjiku Muratha</h3>
+      <h3>United Democratic Alliance (UDA)</h3>
       <Link to='/women-rep-results'>IEBC Results</Link>
-      </article>
+      </div>
       
      </article>
     </section>
