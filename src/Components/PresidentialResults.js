@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 
 const PresidentialResults = ()=>{
  return(
-  <section>
+  <section className='container'>
    <article className='results'>
     <h2> IEBC Presidential Results Kiambu County</h2>
     <p>(IEBC - Independent Electoral & Boundaries Commission (Kenya))</p>

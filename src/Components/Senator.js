@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 
 const Senator = () => {
   return (
-    <section>
+    <section className='container'>
      <article>
       <h1>Senator</h1>
       <figure>

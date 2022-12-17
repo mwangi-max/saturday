@@ -4,7 +4,7 @@ import { mpsData } from './mpsData'
 
 const Mps = () => {
   return (
-    <section>
+    <section className='container'>
      <article>
       <h1>Kiambu County Elected MPs 2022</h1>
       {

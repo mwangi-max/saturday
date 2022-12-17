@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 
 const SenResults = ()=>{
  return(
-  <section>
+  <section className='container'>
    <article className='results'>
     <h2> IEBC Kiambu County Senatorial Results 2022</h2>
     <p>(IEBC - Independent Electoral & Boundaries Commission (Kenya))</p>

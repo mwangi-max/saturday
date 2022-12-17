@@ -8,7 +8,7 @@ const SingleMca = () => {
   console.log(mca);
   const {name,ward,image,party,constituency} = mca;
   return (
-    <section>
+    <section className='container'>
      <article>
        <h2 className='heading'>{ward} Ward</h2>
        <p>({constituency} Constituency)</p>

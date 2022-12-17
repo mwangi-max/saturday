@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 
 const Governor = () => {
   return (
-    <section>
+    <section className='container'>
      <article>
       <h1>Governor</h1>
       <figure>

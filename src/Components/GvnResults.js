@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 
 const GvnResults = ()=>{
  return(
-  <section>
+  <section className='container'>
    <article className='results'>
     <h2> IEBC Gubernatorial Results Kiambu County 2022</h2>
     <p>(IEBC - Independent Electoral & Boundaries Commission (Kenya))</p>

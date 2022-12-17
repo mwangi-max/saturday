@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom';
 
 const Mcas = () => {
   return (
-    <section>
+    <section className='container'>
      <article>
       <h1>Kiambu County Elected MCAs (60) 2022</h1>
       {

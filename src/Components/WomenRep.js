@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 
 const WomenRep = () => {
   return (
-    <section>
+    <section className='container'>
      <article>
       <h1>Women Representative</h1>
       <figure>

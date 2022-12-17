@@ -2,8 +2,8 @@ import React from 'react'
 
 const Loading = () => {
   return (
-    <section className='loading'>
-     <article>
+    <section className='container'>
+     <article className='loading'>
       <h2>Loading ...</h2>
      </article>
     </section>

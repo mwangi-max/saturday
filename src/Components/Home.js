@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 
 const Home = ()=>{
  return(
-  <section>
+  <section className='container'>
    <article>
     <h1>President</h1>
       <figure>

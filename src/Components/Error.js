@@ -3,7 +3,7 @@ import {Link } from 'react-router-dom';
 
 const Error = ()=>{
  return(
-  <section>
+  <section className='container'>
    <article className='info'>
     <h2>Sorry, the page that you are looking for doesn't exist</h2>
     <p>Apologies for any misconvenience caused</p>

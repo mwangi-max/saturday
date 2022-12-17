@@ -9,7 +9,7 @@ const mp = mpsData.find((mp)=>mp.constituency === mpConstituency);
 
 const {name,constituency,image,party} = mp;
   return (
-    <section>
+    <section className='container'>
      <article>
        <h2 className='heading'>{constituency} Constituency</h2>
       <figure>
